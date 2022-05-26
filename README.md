@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MelvinHotis
-- 👀 I’m interested in ... minecraft
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in website development
+- 🌱 I’m currently learning about life
+- 💞️ I’m looking to collaborate on with other website developers
+- 📫 How to reach me Discord: Мелвин#1058
 
 <!---
 MelvinHotis/MelvinHotis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
