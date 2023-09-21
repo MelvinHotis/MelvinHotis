@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MelvinHotis
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning about life
-- 💞️ I’m looking to collaborate on with other website developers
-- 📫 How to reach me Discord: Мелвин#1058
+- 👋 Hi, I'm @MelvinHotis
+- 👀 I am engaged in Frotend development and create websites
+- 🌱 I am currently studying React
+- 📫 You can contact me via Telegram - @melvinhotis
 
 <!---
 MelvinHotis/MelvinHotis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
